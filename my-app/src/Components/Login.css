@@ -1,0 +1,14 @@
+.login-container{
+    padding: 10rem;
+}
+.login-container>div{
+    border-radius: 10px;
+}
+button{
+    width: fit-content;
+}
+
+.registerlink{
+    color: #0d6efd ;
+    text-decoration: underline;
+}

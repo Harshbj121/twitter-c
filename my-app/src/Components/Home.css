@@ -1,0 +1,22 @@
+.home{
+    width: 80%;
+}
+
+.leftSidebar {
+    flex: 0 0 20%; /* Fixed width for sidebar */
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }
+  
+  .tweets{
+    flex: 1; /* Take remaining space */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+
+  .rightSideBar {
+    flex: 0 0 20%; /* Fixed width for sidebar */
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }

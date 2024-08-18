@@ -1,0 +1,5 @@
+I have created twitter clone app as my final project . While creating this app i learn many things and do practcise on both frontend and 
+backend . In this project i used multer for storing and displaying images . In this project i use mongoose library to store user data on 
+backend and retriving that data to display in the frontend . I use axios npm to connect frontend with backend , jwt for authorization if 
+the user is loggedin or not , creating post , updating profile , deleting , like ,dislike , comment ,follow ,unfollow user . 
+My url endpoints may not be same as menioned in the project file. 
